@@ -34,4 +34,5 @@ This API runs a Machine Learning Image Recognition model using Flask Python. It 
  Use this url address : https://jualin-ml-umkm-service-yx5zrdv2ka-et.a.run.app/predict
 
  ## 📌 Note
- - For machine learning models, you can download the model in the Jualin-Machine-Learning repository. And create a model folder in the API directory to store the downloaded model files
+ - For machine learning models, you can download the model in the Jualin-Machine-Learning repository. And create a model folder in the API directory to store the downloaded model files.
+ - After cloning the repository, don't forget to create `images` and `model` folders
