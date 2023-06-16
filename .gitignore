@@ -1,3 +1,5 @@
 backup.py
 cloudrun.py
+xception_image_classifier.h5
+/model/
 
